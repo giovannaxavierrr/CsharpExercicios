@@ -22,6 +22,11 @@ namespace ListaExercicios
                         ex2.Metodo();
                     break;
 
+                    case 3:
+                        Exerc3 ex3 = new Exerc3();
+                        ex3.Metodo();
+                    break;
+
                     default:
                     return;
                 }  
